@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>std.frag</file>
+        <file>std.geom</file>
+        <file>std.vert</file>
+        <file>images/pfd_adi_back.svg</file>
+        <file>images/pfd_adi_ladd.svg</file>
+    </qresource>
+</RCC>
